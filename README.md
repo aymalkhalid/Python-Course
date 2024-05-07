@@ -162,4 +162,4 @@ Contributions to this course are welcome. Please open an issue or submit a pull 
 
 ## License
 
-This course is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This course is licensed under the Creative Commons Attribution 4.0 International License. See the [LICENSE](./LICENSE) file for details.
